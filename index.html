@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>MikeBelzer.com</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/index.css" />
+        <link rel="stylesheet" href="libs/fullpage/jquery.fullPage.css" />
+
+        <!-- FONTS -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- JS -->
+        <script type="text/javascript" src="libs/jquery/jquery-2.1.3.min.js"></script>
+        <script type="text/javascript" src="libs/jquery/jquery.color.js"></script>
+        <script type="text/javascript" src="libs/fullpage/jquery.fullPage.min.js"></script>
+        <script type="text/javascript" src="javascript/index.js"></script>
+    </head>
+
+    <body>
+        <div id="header">
+            <div id="share"></div>
+            <div id="logo">MIKE BELZER.COM</div>
+            <div id="legal"></div>
+        </div>
+        <div id="fullpage">
+            <section id="home"></section>
+            <section id="about">
+                <div class="content">
+                    <p>
+                        Playing with G.I. Joes and video games as a kid payed off for Mike. First, he made a career in
+                        stop motion animating such icons as Gumby and the Pillsbury Doughboy, as well as such films as
+                        "Nightmare Before Christmas" and "James and the Giant Peach."
+                    </p>
+                    <p>
+                        Then, in 1993, he got his first taste of CGI at Pixar and LIKED IT!! For almost 12 years, he
+                        worked at the Walt Disney Animation Studios on such projects as "Walt Disney's Dinosaur",
+                        "Kangaroo Jack" , "Meet the Robinsons", and "Bolt".
+                    </p>
+                    <p>
+                        Now, he's working at the coolest game studio on the planet making games. When he's not playing
+                        with pixels, the only thing he enjoys more in life is spending time with his wife and children.
+                    </p>
+                </div>
+            </section>
+            <section id="photos">
+                <div class="content">
+                    <div class="arrow-up"><span></span></div>
+                    <div class="images">
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/Tall_building-8.jpg')"></span>
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/Tall_building-8.jpg')"></span>
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                        <span style="background-image: url('img/Tall_building-8.jpg')"></span>
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/Tall_building-8.jpg')"></span>
+                        <span style="background-image: url('img/about_bg.jpg')"></span>
+                        <span style="background-image: url('img/home_bg.jpg')"></span>
+                    </div>
+                    <div class="arrow-down"><span></span></div>
+                </div>
+            </section>
+            <section id="demo"></section>
+            <section id="nav"></section>
+        </div>
+        <div id="footer">
+            <div id="home-nav" class="selected" onclick="$.fn.fullpage.moveTo(1);">
+                HOME
+                <div class="arrows"></div>
+            </div>
+            <div id="about-nav"  onclick="$.fn.fullpage.moveTo(2);">
+                ABOUT
+                <div class="arrows"></div>
+            </div>
+            <div id="photos-nav"  onclick="$.fn.fullpage.moveTo(3);">
+                PHOTOS
+                <div class="arrows"></div>
+            </div>
+            <div id="demos-nav"  onclick="$.fn.fullpage.moveTo(4);">
+                DEMOS
+                <div class="arrows"></div>
+            </div>
+            <div id="lectures-nav"  onclick="$.fn.fullpage.moveTo(5);">
+                LECTURES
+                <div class="arrows"></div>
+            </div>
+        </div>
+    </body>
+</html>

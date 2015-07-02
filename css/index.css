@@ -1,0 +1,208 @@
+* {
+	font-family: "Open Sans", arial, sans-serif;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+#header {
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 5em;
+	width: 100%;
+	background: rgba(0, 0, 0, .8);
+	border-radius: 50%/100%;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	color: #e1eee1;
+	z-index: 10;
+}
+
+#header > #logo {
+	height: 1em;
+	width: 100%;
+	font-size: 200%;
+	text-align: center;
+	margin: .75em 0;
+}
+
+#fullpage {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+section {
+	display: block;
+	position: relative;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: center;
+	background-size: cover;
+}
+
+section:nth-of-type(1) { background-image: url('../img/home_bg.jpg'); }
+section:nth-of-type(2) { background-image: url('../img/about_bg.jpg'); }
+section:nth-of-type(3) { background-color: #ccc; }
+section:nth-of-type(4) { background-color: #ffee11; }
+section:nth-of-type(5) { background-color: #cc113f; }
+
+section#about .content {
+	width: 80%;
+	max-width: 700px;
+	height: auto;
+	max-height: 400px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 20px 40px;
+	background-color: rgba(10, 10, 20, .8);
+	color: #eee;
+	letter-spacing: .05em;
+	line-height: 1.5em;
+	text-align: justify;
+}
+
+section#photos .content {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	flex-wrap: nowrap;
+	width: 80%;
+	max-width: 800px;
+	height: 80%;
+	margin: 20px auto 0;
+}
+
+section#photos .content > .arrow-up,
+section#photos .content > .arrow-down {
+	height: 40px;
+	transition: all ease 500ms;
+	cursor: pointer;
+}
+
+section#photos .content > .arrow-up:hover,
+section#photos .content > .arrow-down:hover {
+	background-color: rgba(10, 10, 20, .3);
+}
+
+section#photos .content > .arrow-up {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+section#photos .content > .arrow-down {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+section#photos .content > .arrow-up > span,
+section#photos .content > .arrow-down > span {
+	display: block;
+	height: 20px;
+	width: 20px;
+	transform: rotate(45deg);
+}
+
+section#photos .content > .arrow-up > span {
+	margin: 15px auto;
+	border-top: 2px solid rgba(10, 10, 20, .7);
+	border-left: 2px solid rgba(10, 10, 20, .7);
+}
+
+section#photos .content > .arrow-down > span {
+	margin: 3px auto;
+	border-bottom: 2px solid rgba(10, 10, 20, .7);
+	border-right: 2px solid rgba(10, 10, 20, .7);
+}
+
+section#photos .content > .images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+	align-content: flex-start;
+	flex-grow: 1;
+	height: 0;
+	overflow: hidden;
+	padding: 20px 10px;
+	background-color: rgba(10, 10, 20, .05);
+}
+
+section#photos .content > .images > span {
+	display: inline-block;
+	flex-grow: 1;
+	height: 120px;
+	width: 170px;
+	background-size: cover;
+	background-position: center;
+	cursor: pointer;
+	margin: 10px;
+}
+
+#footer {
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	height: 3em;
+	width: 100%;
+	justify-content: space-between;
+	align-items: stretch;
+	background: rgba(0, 0, 0, .8);
+	color: #d1ddd1;
+	z-index: 10;
+}
+
+#footer > div {
+	display: inline-block;
+	position: relative;
+	height: 1em;
+	width: 20%;
+	padding: 1em 0;
+	flex-grow: 1;
+	flex-shrink: 0;
+	text-align: center;
+	cursor: pointer;
+}
+
+#footer > div > .arrows:after,
+#footer > div > .arrows:before {
+	content: '';
+	position: absolute;
+	width: 0;
+	height: 0;
+	margin-left: -2em;
+	border-left: 2em solid transparent;
+	border-right: 2em solid transparent;
+	text-align: center;
+	transition: all 250ms ease;
+}
+
+#footer > div > .arrows:after {
+	top: 0;
+	border-top: 0 solid #ff7100;
+}
+#footer > div.selected > .arrows:after {
+	border-top-width: .5em;
+	bottom: -.5em;
+}
+
+#footer > div > .arrows:before {
+	bottom: 0;
+	border-bottom: 0 solid #0085ff;
+}
+#footer > div:hover > .arrows:before {
+	border-bottom-width: .5em;
+}
