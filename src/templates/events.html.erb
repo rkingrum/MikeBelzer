@@ -1,0 +1,76 @@
+<div class="event-map">
+  <div class="events">
+    <% events.each do |event| %>
+        <div class="event">
+          <div class="event-content">
+            <div class="name"><%= event[:name] %></div>
+
+            <div class="type">
+              <%= event[:type] %>
+
+              <% if event.key?(:date) && !event[:date].nil? %>
+                <span class="date">(<%= event[:date] %>)</span>
+              <% end %>
+            </div>
+
+            <div class="location"><%= event[:location] %></div>
+          </div>
+        </div>
+    <% end %>
+  </div>
+  <div id='map' class="map"></div>
+</div>
+<script type="application/javascript">
+    // https://account.mapbox.com/access-tokens/
+    let accessToken = 'pk.eyJ1Ijoicm9iZXJ0aW5ncnVtIiwiYSI6ImNrM2F3YjdudTBmMTYzY3FsMjNiaHE2dXcifQ.oEHyfM9K-rB64jg4SsvQ4A';
+    let map = L.map('map').setView([10, -60], 2);
+
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + accessToken, {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 8,
+        id: 'mapbox.streets',
+        accessToken: accessToken
+    }).addTo(map);
+
+    let markers = {};
+    let marker;
+    <% locations.each do |name, location| %>
+        marker = L.marker([<%= "#{location[:lat]}, #{location[:long]}" %>]).addTo(map);
+
+        <%
+         inner_html = "<div class='events'>"
+         inner_html += location_event_map[name].map do |i|
+             event = events[i]
+             date  = event[:date].nil? ? nil : ", #{event[:date]}"
+
+             "<div class='event'>" +
+             "#{event[:name]} " +
+             "<span class='type'>(#{event[:type]}#{date})</span>" +
+             "</div>"
+         end.join('')
+         inner_html += '</div>'
+         inner_html += "<div class='location-name'>#{name}</div>"
+        %>
+
+        marker.bindPopup("<%= inner_html %>");
+        markers['<%= name %>'] = marker;
+    <% end %>
+
+    $(document).on('ready turbolinks:load', function() {
+        $('.event').on('click', function(e) {
+            let target = $(e.target);
+            if (!target.hasClass('.event')) {
+                target = target.parents('.event');
+            }
+
+            let events = $('.event');
+
+            events.removeClass('selected');
+            target.addClass('selected');
+
+            let marker = markers[target.find('.location')[0].innerHTML];
+            marker.openPopup();
+            map.flyTo(marker.getLatLng(), 4)
+        });
+    });
+</script>

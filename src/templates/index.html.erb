@@ -1,0 +1,45 @@
+<%
+  carousal_image_paths = %w[carousal/boltHelecopter.jpg
+                            carousal/JackSnowflake.jpg
+                            carousal/Mayor.jpg
+                            carousal/MeetTheRobinsons.jpg
+                            carousal/Portal2.jpg
+                            carousal/tf2Logo.jpg
+                            carousal/theLab.jpg
+                            carousal/robinsonsCarl.jpg
+                            carousal/nightmare.jpg
+                            carousal/doughBoy.jpg]
+%>
+
+<div class="carousal">
+  <div class="images">
+    <% carousal_image_paths.each_with_index do |image_path, index| %>
+      <div class="image image-<%= index %> <%= 'selected' if index == 0 %>"
+           style="background-image: url('<%= resource_url image_path %>')"></div>
+    <% end %>
+  </div>
+
+  <div class="controls">
+    <div class="previous"></div>
+    <div class="next"></div>
+
+    <div class="image-shortcuts">
+      <% carousal_image_paths.each_with_index do |_image_path, index| %>
+        <div class="image-shortcut <%= 'selected' if index == 0 %>" data-image-index="<%= index %>"></div>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<p>
+  Mike started animating when he was 13 years old.  As a professional animator, he has worked for such companies
+  as Walt Disney Feature Animation, Warner Bros., Pixar and Valve.  He got his start with stop motion animation
+  working with icons like Gumby, Pillsbury Doughboy, Hersey Kisses and films like The Nightmare Before Christmas
+  and James and the Giant Peach.
+</p>
+
+<p>
+  Years later he transitioned to computer animation creating feature films, commercials, video games and even
+  virtual reality experiences!  One of his many hobbies is traveling the world teaching and lecturing about
+  the craft of animation.  The only thing he loves more than animating, is spending time with his family.
+</p>

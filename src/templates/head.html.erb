@@ -1,0 +1,39 @@
+<link rel="icon" type="img/ico" href="<%= resource_url 'favicon.ico' %>" />
+
+<script src="<%= resource_url 'jquery.js' %>" type="application/javascript"></script>
+<script src="<%= resource_url 'carousal.js' %>" type="application/javascript"></script>
+<script src="<%= resource_url 'gallery.js' %>" type="application/javascript"></script>
+
+<script type="application/javascript">
+    $(document).ready(function() {
+        let hide_email = function(e) {
+            if ($(e.target).hasClass('fa-envelope')) { return false; }
+            $('.email-popup').hide();
+            $('.email').click(show_email);
+            $('body').unbind('click');
+        };
+        let show_email = function() {
+            $('.email-popup').show();
+            $('.email').unbind('click');
+            $('body').click(hide_email);
+        };
+        $('.email').click(show_email);
+    });
+</script>
+
+<link href="<%= resource_url('base.css') %>" rel="stylesheet" type="text/css">
+<link href="<%= resource_url('font-awesome.css') %>" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+  body {
+    background-image: url("<%= resource_url('mbbg.png') %>");
+  }
+</style>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""/>
+<!-- Make sure to put this AFTER the CSS -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>

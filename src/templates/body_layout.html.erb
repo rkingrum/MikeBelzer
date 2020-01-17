@@ -1,0 +1,51 @@
+<section id="header">
+  <section id="contact">
+    <span>CONTACT:</span>
+
+    <a href="#" title='mbelzer5@gmail.com' class="email" >
+      <i class="fa fa-envelope" aria-hidden="true"></i>
+      <div class="email-popup">
+        <a href="mailto:mbelzer5@gmail.com" target="_blank">mbelzer5@gmail.com</a>
+      </div>
+    </a>
+
+    <a href="https://www.linkedin.com/in/mikebelzer" class="linkedin" target="_blank" >
+      <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+    </a>
+
+    <a href="https://www.imdb.com/name/nm0069802/" class="imdb" target="_blank" >
+      <i class="fa fa-imdb" aria-hidden="true"></i>
+    </a>
+  </section>
+
+  <a href="./index.html" id="site-logo">
+    <img src="./resources/logo.png" alt="logo" />
+  </a>
+</section>
+
+<section id="navigation">
+  <% count = 0 %>
+  <% HtmlGenerator::PAGES.each do |name, template_path| %>
+    <% selected_class = current_page_name == name ? 'current_page_item' : nil %>
+
+    <li class="page_item page-item-<%= count %> <%= selected_class %>">
+      <a href="./<%= erb_name_to_html_name(template_path) %>"><%= name %></a>
+    </li>
+
+    <% count += 1 %>
+  <% end %>
+</section>
+
+<section id="content">
+  <%= yield %>
+</section>
+
+<section id="footer">
+  <p>
+    &copy; <%= Time.now.year %> Mike Belzer &emsp;
+  </p>
+</section>
+
+<section id="modal-overlay">
+  <div id="modal-content"></div>
+</section>

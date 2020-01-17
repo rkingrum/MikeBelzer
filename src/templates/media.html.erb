@@ -1,0 +1,42 @@
+<%
+  image = Struct.new(:caption, :path)
+  folders = {
+      Posters:
+          [image.new('First thing', resource_url('carousal/Mayor.jpg')),
+           image.new('Second thing', resource_url('carousal/doughBoy.jpg'))],
+      'What Happened':
+          [image.new('First thing', resource_url('carousal/Portal2.jpg')),
+           image.new('Second thing', resource_url('carousal/theLab.jpg'))]
+  }
+%>
+
+<h1>Images</h1>
+<% folders.each do |name, images| %>
+  <div class="folder">
+    <div class="title">
+      <div class="preview"></div>
+      <%= name %>
+    </div>
+    <div class="images">
+      <% images.each do |image| %>
+        <div class="image">
+          <img src="<%= image.path %>" alt="<%= image.caption %>" />
+          <div class="caption"><%= image.caption %></div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+
+<h1>Links</h1>
+<ul>
+  <li>
+    <a href='https://www.imdb.com/name/nm0069802/' target="_blank">IMDB Mike Belzer</a>
+  </li>
+  <li>
+    <a href='https://www.facebook.com/FloatingStoneProductions/videos/10156479968773901/' target="_blank">Documentary</a>
+  </li>
+</ul>
+
+
