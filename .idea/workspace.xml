@@ -2,64 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/robertingrum.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/MikeBelzerResume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/JackSnowflake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/Mayor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/MeetTheRobinsons.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/Portal2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/boltHelecopter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/doughBoy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/nightmare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/robinsonsCarl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/tf2Logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/theLab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/envelope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/imdb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/mbbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/body_layout.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/demo_reels.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/head.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/resume.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/wrapper.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/bolt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/gumby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/james_and_the_giant_peach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/nightmare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/pillsbury.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/pixar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/robinsons.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MikeBelzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MikeBelzer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Tall_building-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fullpage/jquery.fullPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/fullpage/jquery.fullPage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery-2.1.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,18 +71,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/resources" />
       <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer\img" />
-      <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer\libs\fullpage" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/src/resources/albums/posters" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/templates" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -350,7 +303,7 @@
       <workItem from="1484800218498" duration="18000" />
       <workItem from="1579212392917" duration="2634000" />
       <workItem from="1579223848618" duration="5670000" />
-      <workItem from="1579299041962" duration="2219000" />
+      <workItem from="1579299041962" duration="4254000" />
     </task>
     <servers />
   </component>
@@ -369,10 +322,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="849" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579229018253">
+    <state x="849" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579577367118">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="849" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579229018253" />
+    <state x="849" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579577367118" />
     <state x="1029" y="289" key="NewModule_or_Project.wizard" timestamp="1579223994546">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
