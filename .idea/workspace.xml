@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/bolt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/dinosaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/gumby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/james_and_the_giant_peach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/nightmare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/pillsbury.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/pixar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/albums/posters/robinsons.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/events.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +71,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/src/resources/albums" />
+      <recent name="$PROJECT_DIR$/build/resources/albums" />
       <recent name="$PROJECT_DIR$/src/resources/albums/posters" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/templates" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -303,7 +295,7 @@
       <workItem from="1484800218498" duration="18000" />
       <workItem from="1579212392917" duration="2634000" />
       <workItem from="1579223848618" duration="5670000" />
-      <workItem from="1579299041962" duration="4254000" />
+      <workItem from="1579299041962" duration="12151000" />
     </task>
     <servers />
   </component>
@@ -346,9 +338,9 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="669" y="338" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1579228437013" />
-    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1579226797710">
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1580263955279">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1579226797710" />
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1580263955279" />
   </component>
 </project>
