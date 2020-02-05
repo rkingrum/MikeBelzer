@@ -1,4 +1,5 @@
 require 'erb'
+require 'fileutils'
 
 class HtmlGenerator
   LAYOUT_PATH = 'templates/body_layout.html.erb'.freeze
@@ -30,6 +31,8 @@ class HtmlGenerator
       html_name = erb_name_to_html_name(page)
       File.write("#{current_dir}/../build/#{html_name}", html)
     end
+
+    FileUtils.copy_entry "#{current_dir}/resources", "#{current_dir}/../build/resources"
   end
 
   def erb_name_to_html_name(erb_name)

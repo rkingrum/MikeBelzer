@@ -48,15 +48,67 @@
   </div>
 <% end %>
 
-
+<%
+  Link = Struct.new(:image, :url, :text)
+  links = [Link.new('links/we_know_jack.png',
+                    'https://www.weknowjackshow.com/animator-mike-belzer',
+                    'We Know Jack Podcast 2019'),
+           Link.new('links/vcu.png',
+                    'https://arts.vcu.edu/calendar/event/mike-belzer-lecture/',
+                    'VCU Arts Lecture 2019'),
+           Link.new('links/aie.png',
+                    'https://www.youtube.com/watch?v=kEWRJZvp1CU',
+                    'AIE Seattle 2019'),
+           Link.new('links/Overmountain.png',
+                    'https://overmountainanimation.com/judges',
+                    'Overmountain Animation Film Festival 2019'),
+           Link.new('links/el_capitan_25.png',
+                    'https://www.youtube.com/watch?v=oG0IsVQtOIM',
+                    'El Capitan 25th Anniversary talk and demo 2018'),
+           Link.new('links/animation_mentor.png',
+                    'http://blog.animationmentor.com/meet-mike-belzer-returning-mentor-and-valve-animator/',
+                    'Animation Mentor 2018'),
+           Link.new('links/mousetaligia.png',
+                    'http://mousetalgia.libsyn.com/mousetalgia-episode-520-25-years-of-tim-burtons-the-nightmare-before-christmas',
+                    'Mousetalgia Podcast 2018'),
+           Link.new('links/moca_animation.png',
+                    'https://www.facebook.com/watch/?v=10156479968773901',
+                    'MASS MoCA animation with Elizabeth King sculptures 2017'),
+           Link.new('links/moca_time_lapse.png',
+                    'https://www.youtube.com/watch?v=0Vv20WN0dnU',
+                    'MASS MoCA time lapse 2017'),
+           Link.new('links/awn.png',
+                    'https://www.awn.com/animationworld/advanced-art-stop-motion-animation-history-stop-motion-feature-films-part-2',
+                    'AWN article 2011'),
+           Link.new('links/el_capitan_panel.png',
+                    'https://www.youtube.com/watch?v=B89hLR14ouY',
+                    'El Capitan Panel Discussion Clip 1 2007'),
+           Link.new('links/el_capitan_panel.png',
+                    'https://www.youtube.com/watch?v=PoA0bDihUMI',
+                    'El Capitan Panel Discussion Clip 2 2007'),
+           Link.new('links/el_capitan_panel.png',
+                    'https://www.youtube.com/watch?v=M4g3A-zkgx4',
+                    'El Capitan Panel Discussion Clip 3 2007'),
+           Link.new('links/creanimax.png',
+                    'http://bobbyboom.blogspot.com/2007/10/creanimax-animation-conference-in.html',
+                    'Creanimax in Mexico 2007'),
+           Link.new('links/animation_mentor_newsletter.png',
+                    'https://newsletters.animationmentor.com/newsletter/0407/feature_mentor.html',
+                    'Animation Mentor Newsletter 2007'),
+           Link.new('links/dinosaur.png',
+                    'http://cinema.com/articles/174/dinosaur-production-notes.phtml',
+                    'Dinosaur Production Notes 2000'),
+  ]
+%>
 <h1>Links</h1>
-<ul>
-  <li>
-    <a href='https://www.imdb.com/name/nm0069802/' target="_blank">IMDB Mike Belzer</a>
-  </li>
-  <li>
-    <a href='https://www.facebook.com/FloatingStoneProductions/videos/10156479968773901/' target="_blank">Documentary</a>
-  </li>
-</ul>
-
-
+<p>
+  A collection of past talks, podcasts, and lectures.
+</p>
+<div class="links">
+  <% links.each do |link| %>
+    <div class="link">
+      <div class="image" style="background-image: url(<%= resource_url(link.image) %>"></div>
+      <a href='<%= link.url %>' target="_blank"><%= link.text %></a>
+    </div>
+  <% end %>
+</div>

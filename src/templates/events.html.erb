@@ -19,6 +19,17 @@
     <% end %>
   </div>
   <div id='map' class="map"></div>
+  <div id="map-controls" class="controls fa">&#xf128</div>
+  <div class="controls-modal">
+    <p>
+      Each pin represents one or more events from the left.
+    </p>
+    <p>
+      You can click on the events to the left to navigate to the corresponding pin on the
+      map, or click on a pin to view more information about the events there.
+    </p>
+
+  </div>
 </div>
 <script type="application/javascript">
     let events = [];
@@ -99,6 +110,21 @@
                     200
                 );
             });
+        });
+
+        $('#map-controls').click(function(e) {
+            let toggler = $(e.target);
+            let modal = $('.controls-modal');
+
+            toggler.toggleClass('active');
+
+            if (toggler.hasClass('active')) {
+                toggler.html('&#xf00d');
+                modal.show();
+            } else {
+                toggler.html('&#xf128');
+                modal.hide();
+            }
         });
     });
 </script>

@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/resources/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/Overmountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/aie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/animation_mentor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/animation_mentor_newsletter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/awn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/creanimax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/dinosaur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/el_capitan_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/el_capitan_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/moca_animation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/moca_time_lapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/mousetaligia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/vcu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/links/we_know_jack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/events.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +50,23 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
   <component name="ProjectId" id="1WUm8LZXceQjbRMjeh5x6ZuW5AA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/resources" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -70,11 +89,11 @@
       <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/resources" />
+      <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/src/resources/albums" />
       <recent name="$PROJECT_DIR$/build/resources/albums" />
-      <recent name="$PROJECT_DIR$/src/resources/albums/posters" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -295,7 +314,9 @@
       <workItem from="1484800218498" duration="18000" />
       <workItem from="1579212392917" duration="2634000" />
       <workItem from="1579223848618" duration="5670000" />
-      <workItem from="1579299041962" duration="12151000" />
+      <workItem from="1579299041962" duration="18652000" />
+      <workItem from="1580860876001" duration="6113000" />
+      <workItem from="1580872765037" duration="55000" />
     </task>
     <servers />
   </component>
@@ -313,6 +334,9 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="849" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579577367118">
       <screen x="0" y="23" width="1920" height="1177" />
@@ -326,21 +350,22 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="896" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1579224003488" />
-    <state x="853" y="504" key="com.intellij.ide.util.TipDialog" timestamp="1579299101286">
+    <state x="853" y="504" key="com.intellij.ide.util.TipDialog" timestamp="1580872785560">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="853" y="504" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579299101286" />
-    <state x="1073" y="357" width="772" height="508" key="find.popup" timestamp="1579299893812">
+    <state x="853" y="504" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1580872785560" />
+    <state x="853" y="504" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1580862531053" />
+    <state x="1073" y="357" width="772" height="508" key="find.popup" timestamp="1580339320308">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="1073" y="357" width="772" height="508" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1579299893812" />
+    <state x="1073" y="357" width="772" height="508" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1580339320308" />
     <state x="669" y="338" key="new project wizard" timestamp="1579228437013">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="669" y="338" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1579228437013" />
-    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1580263955279">
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1580338696284">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1580263955279" />
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1580338696284" />
   </component>
 </project>
