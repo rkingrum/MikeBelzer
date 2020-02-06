@@ -2,24 +2,214 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/Overmountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/aie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/animation_mentor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/animation_mentor_newsletter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/awn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/creanimax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/dinosaur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/el_capitan_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/el_capitan_panel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/moca_animation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/moca_time_lapse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/mousetaligia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/vcu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/links/we_know_jack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Elizabeth_King_watermarked/Elizabeth01a_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Elizabeth_King_watermarked/Elizabeth03a_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Elizabeth_King_watermarked/Elizabeth04a_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Elizabeth_King_watermarked/Elizabeth05_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Elizabeth_King_watermarked/Elizabeth2a_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyAngie2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyAngie_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyAnthony1_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyAnthony2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyBlake_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyBlocks_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyBuck1_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyBuck2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyChris_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyCrew2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyCrew_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDan2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDan_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDaveChris2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDaveChris_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDaveHarry_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyDave_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyElephant_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyEric2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyEric2a_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyEric_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyFamily_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyHillaryMe_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyHittle2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyHittle3_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyHittle_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyJim_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyKaren_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyMaggiore2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyMaggiore_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyMe2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyMe_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyMinor_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyOwen_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyPeteK_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyPontac_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet1_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet3_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet4_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet5_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet6_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySet7_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySteveM_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbySteve_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyTake1_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyTake2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Gumby_watermarked/GumbyZim_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/CentandWorm_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/GrasCentFight_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/GullsRig_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/JamesBigPeach_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/JamesGuls_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/MeBigPeach_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/PageGauge_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/PeachChairWide_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/PeachChair_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/PeachGulls2_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/James_and_the_Giant_Peach_watermarked/PeachGulls_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/2007-meet_the_robinsons-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/Dinosaur_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/GumbyMovie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/JamesPeachPoster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/KangarooJack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/Nightmare-Before-Christmas-poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball04_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball05_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball06_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball07_George_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball08_George_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball09_Ray_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball10_Ray_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball11_F_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball12_F_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball13_me_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball14_me_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball15_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Boogie8ball16_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/BoogieArmature_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/BoogieBugs1_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/BoogieSet_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Chris_Boogie01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/EvilSciRemote2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/EvilSciRemote_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/EvilSciSally_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/JackSled01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/JackSled02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/JackSled03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/JackSled04_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/JackSled05_Buck_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/LDBtownhall_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/LSB_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/LSBtub_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/LockShock_claw_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/MakingChristmas01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/MayStrsGang_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Mayor&amp;Me_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/MayorStairs3_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/MayorStairsWide_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/NBCStepsFrnt_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/NBCStepsMed_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/NBCStepsWide_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/Oogie&amp;Santa_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/OogieArmBugs_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/RayChrisMike_Boogie01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFlyAlt2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFlyMed_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFlyWide2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFlyWideMe_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFlyWide_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaFly_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaHandsBS2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaHandsBS_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/SantaHands_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/barrelDoor_me_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogieWheel01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogieWheel02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogieWheel03_Eric_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogieWheel04_Paul_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogieWheel05_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogie_santa01_ray_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/boogie_treid_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/halloweentownMe01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/halloweentownMe02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/houses01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/houses02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/houses03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/houses04_DaveMike_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackHeads_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackTower01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackTower02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackTower03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackTower04_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/jackTower05_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/mayor01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/mayor02_ZimMe_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/mayor03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/mayor04_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/mayorMouths_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/oogieDown2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/oogieDown_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/sallyFace01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/sallyFace02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/sallyFaces_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/tony_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall2_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_Bonita01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_Bonita02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_Jole01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_Jole02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_Loyd_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/townHall_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/treehouse_trey_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis01_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis02_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis03_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis04_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis05_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Nightmare_watermarked/whatsThis06_sm_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Ralph_S_Mouse_watermarked/RalphWindow_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/Ralph_S_Mouse_watermarked/RalphWorried_w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/Belzer_DB_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DB_armature_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyBoard2_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyBoard_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyDead_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyJump_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyPoke_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoySet_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/DoughBoyYell_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/FunfetDBoy_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/commercials/OrsonRat_w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap02.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/20018nbcElCap12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/AIE_Seattle 2019_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/AIE_Seattle_2019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/AM.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/AM_2007.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/Anomalia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/CaptureMexico.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/El_Cap_Panel_clip01_ 2007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/El_Capitan_25th_Anniversary.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/El_Capitan_25th_Anniversary2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/El_Capitan_25th_Anniversary3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/Gibraltar_ComicCon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/Harryhausen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/MASS_MoCA doc.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/MASS_MoCA.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/albums/past_events/elcnbc0626_small_original.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/events.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/links/el_capitan_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/links/el_capitan_25.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +234,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="QPXrvbZD" />
   </component>
   <component name="PhpServers">
     <servers />
@@ -81,19 +274,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build/resources" />
-      <recent name="$PROJECT_DIR$/build" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/build/resources" />
       <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/src/resources/albums" />
       <recent name="$PROJECT_DIR$/build/resources/albums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/resources" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="C:\Users\Robert\IdeaProjects\MikeBelzer\img" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -317,6 +510,7 @@
       <workItem from="1579299041962" duration="18652000" />
       <workItem from="1580860876001" duration="6113000" />
       <workItem from="1580872765037" duration="55000" />
+      <workItem from="1580953937055" duration="1824000" />
     </task>
     <servers />
   </component>

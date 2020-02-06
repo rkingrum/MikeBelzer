@@ -32,8 +32,8 @@ $(document).on('ready turbolinks:load', function() {
         let imgSrc = img.attr('src');
         let alt    = img.attr('alt');
 
-        let modalContent =
-            "<img class='image-modal' src='" + imgSrc + "' alt='" + alt + "' />";
+        let modalContent = "<div class='image-modal' style=\"background-image: url('" + imgSrc + "');\"></div>";
+            // "<img class='image-modal' src='" + imgSrc + "' alt='" + alt + "' />";
 
         showModal(modalContent);
     });
