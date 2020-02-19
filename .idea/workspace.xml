@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/data/albums.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/data/links.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MikeBelzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MikeBelzer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/albums/posters/bolt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/bolt.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/albums/posters/pixar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/albums/Movie Posters/pixar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +304,7 @@
       <workItem from="1580872765037" duration="55000" />
       <workItem from="1580953937055" duration="2071000" />
       <workItem from="1581037920465" duration="6000" />
-      <workItem from="1582069138479" duration="3550000" />
+      <workItem from="1582069138479" duration="3876000" />
     </task>
     <servers />
   </component>
