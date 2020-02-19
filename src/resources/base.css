@@ -450,13 +450,6 @@ a:active {
   box-shadow: 3px 4px 0 rgba(0, 0, 0, 0.5);
 }
 
-.folder .images .image .caption {
-  max-width: 130px;
-  margin: 0 auto;
-  text-align: center;
-  color: rgb(144, 143, 152);
-}
-
 .links .link {
   margin-bottom: 10px;
 }

@@ -1,0 +1,65 @@
+---
+-
+  image: 'links/we_know_jack.png'
+  url:   'https://www.weknowjackshow.com/animator-mike-belzer'
+  text:  'We Know Jack Podcast 2019'
+-
+  image: 'links/vcu.png'
+  url:   'https://arts.vcu.edu/calendar/event/mike-belzer-lecture/'
+  text:  'VCU Arts Lecture 2019'
+-
+  image: 'links/aie.png'
+  url:   'https://www.youtube.com/watch?v=kEWRJZvp1CU'
+  text:  'AIE Seattle 2019'
+-
+  image: 'links/Overmountain.png'
+  url:   'https://overmountainanimation.com/judges'
+  text:  'Overmountain Animation Film Festival 2019'
+-
+  image: 'links/el_capitan_25.png'
+  url:   'https://www.youtube.com/watch?v=oG0IsVQtOIM'
+  text:  'El Capitan 25th Anniversary talk and demo 2018'
+-
+  image: 'links/animation_mentor.png'
+  url:   'http://blog.animationmentor.com/meet-mike-belzer-returning-mentor-and-valve-animator/'
+  text:  'Animation Mentor 2018'
+-
+  image: 'links/mousetaligia.png'
+  url:   'http://mousetalgia.libsyn.com/mousetalgia-episode-520-25-years-of-tim-burtons-the-nightmare-before-christmas'
+  text:  'Mousetalgia Podcast 2018'
+-
+  image: 'links/moca_animation.png'
+  url:   'https://www.facebook.com/watch/?v=10156479968773901'
+  text:  'MASS MoCA animation with Elizabeth King sculptures 2017'
+-
+  image: 'links/moca_time_lapse.png'
+  url:   'https://www.youtube.com/watch?v=0Vv20WN0dnU'
+  text:  'MASS MoCA time lapse 2017'
+-
+  image: 'links/awn.png'
+  url:   'https://www.awn.com/animationworld/advanced-art-stop-motion-animation-history-stop-motion-feature-films-part-2'
+  text:  'AWN article 2011'
+-
+  image: 'links/el_capitan_panel.png'
+  url:   'https://www.youtube.com/watch?v=B89hLR14ouY'
+  text:  'El Capitan Panel Discussion Clip 1 2007'
+-
+  image: 'links/el_capitan_panel.png'
+  url:   'https://www.youtube.com/watch?v=PoA0bDihUMI'
+  text:  'El Capitan Panel Discussion Clip 2 2007'
+-
+  image: 'links/el_capitan_panel.png'
+  url:   'https://www.youtube.com/watch?v=M4g3A-zkgx4'
+  text:  'El Capitan Panel Discussion Clip 3 2007'
+-
+  image: 'links/creanimax.png'
+  url:   'http://bobbyboom.blogspot.com/2007/10/creanimax-animation-conference-in.html'
+  text:  'Creanimax in Mexico 2007'
+-
+  image: 'links/animation_mentor_newsletter.png'
+  url:   'https://newsletters.animationmentor.com/newsletter/0407/feature_mentor.html'
+  text:  'Animation Mentor Newsletter 2007'
+-
+  image: 'links/dinosaur.png'
+  url:   'http://cinema.com/articles/174/dinosaur-production-notes.phtml'
+  text:  'Dinosaur Production Notes 2000'
