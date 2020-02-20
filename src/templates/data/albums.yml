@@ -1,104 +1,34 @@
 ---
 -
-  name: 'Commercials'
+  name: 'Past Events'
   images:
-    - albums/commercials/Belzer_DB_w.jpg
-    - albums/commercials/DB_armature_w.jpg
-    - albums/commercials/DoughBoyBoard2_w.jpg
-    - albums/commercials/DoughBoyBoard_w.jpg
-    - albums/commercials/DoughBoyDead_w.jpg
-    - albums/commercials/DoughBoyJump_w.jpg
-    - albums/commercials/DoughBoyPoke_w.jpg
-    - albums/commercials/DoughBoySet_w.jpg
-    - albums/commercials/DoughBoyYell_w.jpg
-    - albums/commercials/FunfetDBoy_w.jpg
-    - albums/commercials/OrsonRat_w.jpg
+    - albums/past_events/20018nbcElCap01.jpg
+    - albums/past_events/20018nbcElCap02.JPG
+    - albums/past_events/20018nbcElCap03.jpg
+    - albums/past_events/20018nbcElCap04.jpg
+    - albums/past_events/20018nbcElCap05.jpg
+    - albums/past_events/20018nbcElCap06.jpg
+    - albums/past_events/20018nbcElCap08.jpg
+    - albums/past_events/20018nbcElCap10.jpg
+    - albums/past_events/20018nbcElCap11.jpg
+    - albums/past_events/20018nbcElCap12.jpg
+    - albums/past_events/AIE_Seattle 2019_2.jpg
+    - albums/past_events/AIE_Seattle_2019.jpg
+    - albums/past_events/AM.JPG
+    - albums/past_events/AM_2007.JPG
+    - albums/past_events/Anomalia.jpg
+    - albums/past_events/CaptureMexico.JPG
+    - albums/past_events/El_Cap_Panel_clip01_ 2007.jpg
+    - albums/past_events/El_Capitan_25th_Anniversary.jpg
+    - albums/past_events/El_Capitan_25th_Anniversary2.jpg
+    - albums/past_events/El_Capitan_25th_Anniversary3.JPG
+    - albums/past_events/elcnbc0626_small_original.jpg
+    - albums/past_events/Gibraltar_ComicCon.jpg
+    - albums/past_events/Harryhausen.jpg
+    - albums/past_events/MASS_MoCA.JPG
+    - albums/past_events/MASS_MoCA doc.JPG
 -
-  name: 'Elizabeth King'
-  images:
-    - albums/Elizabeth_King_watermarked/Elizabeth01a_w2.jpg
-    - albums/Elizabeth_King_watermarked/Elizabeth2a_w2.jpg
-    - albums/Elizabeth_King_watermarked/Elizabeth03a_w2.jpg
-    - albums/Elizabeth_King_watermarked/Elizabeth04a_w2.jpg
-    - albums/Elizabeth_King_watermarked/Elizabeth05_w2.jpg
--
-  name: 'Gumby'
-  images:
-    - albums/Gumby_watermarked/GumbyAngie2_w.jpg
-    - albums/Gumby_watermarked/GumbyAngie_w.jpg
-    - albums/Gumby_watermarked/GumbyAnthony1_w.jpg
-    - albums/Gumby_watermarked/GumbyAnthony2_w.jpg
-    - albums/Gumby_watermarked/GumbyBlake_w.jpg
-    - albums/Gumby_watermarked/GumbyBlocks_w.jpg
-    - albums/Gumby_watermarked/GumbyBuck1_w.jpg
-    - albums/Gumby_watermarked/GumbyBuck2_w.jpg
-    - albums/Gumby_watermarked/GumbyChris_w.jpg
-    - albums/Gumby_watermarked/GumbyCrew2_w.jpg
-    - albums/Gumby_watermarked/GumbyCrew_w.jpg
-    - albums/Gumby_watermarked/GumbyDan2_w.jpg
-    - albums/Gumby_watermarked/GumbyDan_w.jpg
-    - albums/Gumby_watermarked/GumbyDave_w.jpg
-    - albums/Gumby_watermarked/GumbyDaveChris2_w.jpg
-    - albums/Gumby_watermarked/GumbyDaveChris_w.jpg
-    - albums/Gumby_watermarked/GumbyDaveHarry_w.jpg
-    - albums/Gumby_watermarked/GumbyElephant_w.jpg
-    - albums/Gumby_watermarked/GumbyEric2_w.jpg
-    - albums/Gumby_watermarked/GumbyEric2a_w.jpg
-    - albums/Gumby_watermarked/GumbyEric_w.jpg
-    - albums/Gumby_watermarked/GumbyFamily_w.jpg
-    - albums/Gumby_watermarked/GumbyHillaryMe_w.jpg
-    - albums/Gumby_watermarked/GumbyHittle2_w.jpg
-    - albums/Gumby_watermarked/GumbyHittle3_w.jpg
-    - albums/Gumby_watermarked/GumbyHittle_w.jpg
-    - albums/Gumby_watermarked/GumbyJim_w.jpg
-    - albums/Gumby_watermarked/GumbyKaren_w.jpg
-    - albums/Gumby_watermarked/GumbyMaggiore2_w.jpg
-    - albums/Gumby_watermarked/GumbyMaggiore_w.jpg
-    - albums/Gumby_watermarked/GumbyMe2_w.jpg
-    - albums/Gumby_watermarked/GumbyMe_w.jpg
-    - albums/Gumby_watermarked/GumbyMinor_w.jpg
-    - albums/Gumby_watermarked/GumbyOwen_w.jpg
-    - albums/Gumby_watermarked/GumbyPeteK_w.jpg
-    - albums/Gumby_watermarked/GumbyPontac_w.jpg
-    - albums/Gumby_watermarked/GumbySet1_w.jpg
-    - albums/Gumby_watermarked/GumbySet2_w.jpg
-    - albums/Gumby_watermarked/GumbySet3_w.jpg
-    - albums/Gumby_watermarked/GumbySet4_w.jpg
-    - albums/Gumby_watermarked/GumbySet5_w.jpg
-    - albums/Gumby_watermarked/GumbySet6_w.jpg
-    - albums/Gumby_watermarked/GumbySet7_w.jpg
-    - albums/Gumby_watermarked/GumbySteve_w.jpg
-    - albums/Gumby_watermarked/GumbySteveM_w.jpg
-    - albums/Gumby_watermarked/GumbyTake1_w.jpg
-    - albums/Gumby_watermarked/GumbyTake2_w.jpg
-    - albums/Gumby_watermarked/GumbyZim_w.jpg
--
-  name: 'James and the Giant Peach'
-  images:
-    - albums/James_and_the_Giant_Peach_watermarked/CentandWorm_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/GrasCentFight_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/GullsRig_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/JamesBigPeach_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/JamesGuls_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/MeBigPeach_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/PageGauge_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/PeachChair_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/PeachChairWide_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/PeachGulls2_w2.jpg
-    - albums/James_and_the_Giant_Peach_watermarked/PeachGulls_w2.jpg
--
-  name: 'Movie Posters'
-  images:
-    - albums/Movie Posters/2007-meet_the_robinsons-1.jpg
-    - albums/Movie Posters/Dinosaur_1280.jpg
-    - albums/Movie Posters/GumbyMovie.jpg
-    - albums/Movie Posters/JamesPeachPoster.jpg
-    - albums/Movie Posters/KangarooJack.png
-    - albums/Movie Posters/Nightmare-Before-Christmas-poster.jpg
-    - albums/Movie Posters/bolt.jpg
-    - albums/Movie Posters/pixar.jpg
--
-  name: Nightmare
+  name: 'The Nightmare Before Christmas'
   images:
     - albums/Nightmare_watermarked/barrelDoor_me_sm_w.jpg
     - albums/Nightmare_watermarked/Boogie8ball01_sm_w.jpg
@@ -198,38 +128,103 @@
     - albums/Nightmare_watermarked/whatsThis05_sm_w.jpg
     - albums/Nightmare_watermarked/whatsThis06_sm_w.jpg
 -
-  name: 'Past Events'
+  name: 'James and the Giant Peach'
   images:
-    - albums/past_events/20018nbcElCap01.jpg
-    - albums/past_events/20018nbcElCap02.JPG
-    - albums/past_events/20018nbcElCap03.jpg
-    - albums/past_events/20018nbcElCap04.jpg
-    - albums/past_events/20018nbcElCap05.jpg
-    - albums/past_events/20018nbcElCap06.jpg
-    - albums/past_events/20018nbcElCap08.jpg
-    - albums/past_events/20018nbcElCap10.jpg
-    - albums/past_events/20018nbcElCap11.jpg
-    - albums/past_events/20018nbcElCap12.jpg
-    - albums/past_events/AIE_Seattle 2019_2.jpg
-    - albums/past_events/AIE_Seattle_2019.jpg
-    - albums/past_events/AM.JPG
-    - albums/past_events/AM_2007.JPG
-    - albums/past_events/Anomalia.jpg
-    - albums/past_events/CaptureMexico.JPG
-    - albums/past_events/El_Cap_Panel_clip01_ 2007.jpg
-    - albums/past_events/El_Capitan_25th_Anniversary.jpg
-    - albums/past_events/El_Capitan_25th_Anniversary2.jpg
-    - albums/past_events/El_Capitan_25th_Anniversary3.JPG
-    - albums/past_events/elcnbc0626_small_original.jpg
-    - albums/past_events/Gibraltar_ComicCon.jpg
-    - albums/past_events/Harryhausen.jpg
-    - albums/past_events/MASS_MoCA.JPG
-    - albums/past_events/MASS_MoCA doc.JPG
+    - albums/James_and_the_Giant_Peach_watermarked/CentandWorm_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/GrasCentFight_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/GullsRig_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/JamesBigPeach_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/JamesGuls_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/MeBigPeach_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/PageGauge_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/PeachChair_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/PeachChairWide_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/PeachGulls2_w2.jpg
+    - albums/James_and_the_Giant_Peach_watermarked/PeachGulls_w2.jpg
 -
-  name: 'Ralph S Mouse'
+  name: 'Gumby Movie'
   images:
-    - albums/Ralph_S_Mouse_watermarked/RalphWindow_w2.jpg
-    - albums/Ralph_S_Mouse_watermarked/RalphWorried_w2.jpg
+    - albums/Gumby_watermarked/GumbyAngie2_w.jpg
+    - albums/Gumby_watermarked/GumbyAngie_w.jpg
+    - albums/Gumby_watermarked/GumbyAnthony1_w.jpg
+    - albums/Gumby_watermarked/GumbyAnthony2_w.jpg
+    - albums/Gumby_watermarked/GumbyBlake_w.jpg
+    - albums/Gumby_watermarked/GumbyBlocks_w.jpg
+    - albums/Gumby_watermarked/GumbyBuck1_w.jpg
+    - albums/Gumby_watermarked/GumbyBuck2_w.jpg
+    - albums/Gumby_watermarked/GumbyChris_w.jpg
+    - albums/Gumby_watermarked/GumbyCrew2_w.jpg
+    - albums/Gumby_watermarked/GumbyCrew_w.jpg
+    - albums/Gumby_watermarked/GumbyDan2_w.jpg
+    - albums/Gumby_watermarked/GumbyDan_w.jpg
+    - albums/Gumby_watermarked/GumbyDave_w.jpg
+    - albums/Gumby_watermarked/GumbyDaveChris2_w.jpg
+    - albums/Gumby_watermarked/GumbyDaveChris_w.jpg
+    - albums/Gumby_watermarked/GumbyDaveHarry_w.jpg
+    - albums/Gumby_watermarked/GumbyElephant_w.jpg
+    - albums/Gumby_watermarked/GumbyEric2_w.jpg
+    - albums/Gumby_watermarked/GumbyEric2a_w.jpg
+    - albums/Gumby_watermarked/GumbyEric_w.jpg
+    - albums/Gumby_watermarked/GumbyFamily_w.jpg
+    - albums/Gumby_watermarked/GumbyHillaryMe_w.jpg
+    - albums/Gumby_watermarked/GumbyHittle2_w.jpg
+    - albums/Gumby_watermarked/GumbyHittle3_w.jpg
+    - albums/Gumby_watermarked/GumbyHittle_w.jpg
+    - albums/Gumby_watermarked/GumbyJim_w.jpg
+    - albums/Gumby_watermarked/GumbyKaren_w.jpg
+    - albums/Gumby_watermarked/GumbyMaggiore2_w.jpg
+    - albums/Gumby_watermarked/GumbyMaggiore_w.jpg
+    - albums/Gumby_watermarked/GumbyMe2_w.jpg
+    - albums/Gumby_watermarked/GumbyMe_w.jpg
+    - albums/Gumby_watermarked/GumbyMinor_w.jpg
+    - albums/Gumby_watermarked/GumbyOwen_w.jpg
+    - albums/Gumby_watermarked/GumbyPeteK_w.jpg
+    - albums/Gumby_watermarked/GumbyPontac_w.jpg
+    - albums/Gumby_watermarked/GumbySet1_w.jpg
+    - albums/Gumby_watermarked/GumbySet2_w.jpg
+    - albums/Gumby_watermarked/GumbySet3_w.jpg
+    - albums/Gumby_watermarked/GumbySet4_w.jpg
+    - albums/Gumby_watermarked/GumbySet5_w.jpg
+    - albums/Gumby_watermarked/GumbySet6_w.jpg
+    - albums/Gumby_watermarked/GumbySet7_w.jpg
+    - albums/Gumby_watermarked/GumbySteve_w.jpg
+    - albums/Gumby_watermarked/GumbySteveM_w.jpg
+    - albums/Gumby_watermarked/GumbyTake1_w.jpg
+    - albums/Gumby_watermarked/GumbyTake2_w.jpg
+    - albums/Gumby_watermarked/GumbyZim_w.jpg
+-
+  name: 'Commercials'
+  images:
+    - albums/commercials/Belzer_DB_w.jpg
+    - albums/commercials/DB_armature_w.jpg
+    - albums/commercials/DoughBoyBoard2_w.jpg
+    - albums/commercials/DoughBoyBoard_w.jpg
+    - albums/commercials/DoughBoyDead_w.jpg
+    - albums/commercials/DoughBoyJump_w.jpg
+    - albums/commercials/DoughBoyPoke_w.jpg
+    - albums/commercials/DoughBoySet_w.jpg
+    - albums/commercials/DoughBoyYell_w.jpg
+    - albums/commercials/FunfetDBoy_w.jpg
+    - albums/commercials/OrsonRat_w.jpg
+-
+  name: 'Movie Posters'
+  images:
+    - albums/Movie Posters/2007-meet_the_robinsons-1.jpg
+    - albums/Movie Posters/Dinosaur_1280.jpg
+    - albums/Movie Posters/GumbyMovie.jpg
+    - albums/Movie Posters/JamesPeachPoster.jpg
+    - albums/Movie Posters/KangarooJack.png
+    - albums/Movie Posters/Nightmare-Before-Christmas-poster.jpg
+    - albums/Movie Posters/bolt.jpg
+    - albums/Movie Posters/pixar.jpg
+-
+  name: 'Elizabeth King'
+  images:
+    - albums/Elizabeth_King_watermarked/Elizabeth01a_w2.jpg
+    - albums/Elizabeth_King_watermarked/Elizabeth2a_w2.jpg
+    - albums/Elizabeth_King_watermarked/Elizabeth03a_w2.jpg
+    - albums/Elizabeth_King_watermarked/Elizabeth04a_w2.jpg
+    - albums/Elizabeth_King_watermarked/Elizabeth05_w2.jpg
 -
   name: 'What Happened'
   images:
@@ -249,3 +244,8 @@
     - albums/what_happened/WH-film-still-14.jpeg
     - albums/what_happened/WH-film-still-15.jpeg
     - albums/what_happened/WH-film-still-16.jpeg
+-
+  name: 'Ralph S Mouse'
+  images:
+    - albums/Ralph_S_Mouse_watermarked/RalphWindow_w2.jpg
+    - albums/Ralph_S_Mouse_watermarked/RalphWorried_w2.jpg

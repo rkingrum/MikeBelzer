@@ -1,0 +1,85 @@
+---
+'Seattle, Washington':
+  lat: 47.601833
+  long: -122.329023
+'Bellevue, Washington':
+  lat: 47.616846
+  long: -122.194735
+'Gibraltar':
+  lat: 36.130548
+  long: -5.347979
+'Santo Domingo, Dominican Republic':
+  lat: 18.467004
+  long: -69.931776
+'Rio de Janeiro, Brazil':
+  lat: -22.968793
+  long: -43.355465
+'São Paulo, Brazil':
+  lat: -23.557594
+  long: -46.570609
+'Viborg, Denmark':
+  lat: 56.461003
+  long: 9.396907
+'Copenhagen, Denmark':
+  lat: 55.688996
+  long: 12.578713
+'Fullerton, California':
+  lat: 33.865999
+  long: -117.924220
+'San Francisco, California':
+  lat: 37.757074
+  long: -122.432113
+'San Luis Obispo, California':
+  lat: 35.273036
+  long: -120.664551
+'Laguna Beach, California':
+  lat: 33.541207
+  long: -117.772257
+'Valencia, California':
+  lat: 34.456647
+  long: -118.571651
+'San Diego, California':
+  lat: 32.798848
+  long: -117.074673
+'Los Angeles, California':
+  lat: 34.063403
+  long: -118.264816
+'Burbank, California':
+  lat: 34.186181
+  long: -118.310135
+'Hollywood, California':
+  lat: 34.092309
+  long: -118.327510
+'London, England':
+  lat: 51.493266
+  long: -0.133203
+'New Orleans, Louisiana':
+  lat: 30.041022
+  long: -89.903190
+'Frankfurt, Germany':
+  lat: 50.134961
+  long: 8.673623
+'Litomysl, Czech Republic':
+  lat: 49.872603
+  long: 16.315034
+'Ottawa, Canada':
+  lat: 45.410983
+  long: -75.577867
+'Halifax, Nova Scotia':
+  lat: 44.897408
+  long: -63.279645
+'Kalamazoo, Michigan':
+  lat: 42.287345
+  long: -85.590970
+'Madison, Wisconsin':
+  lat: 43.064589
+  long: -89.410563
+'Orlando, Florida':
+  lat: 28.525750
+  long: -81.377683
+'Guadalajara, Mexico':
+  lat: 20.668638
+  long: -103.335415
+'North Adams, Massachusetts':
+  lat: 42.697620
+  long: -73.107307

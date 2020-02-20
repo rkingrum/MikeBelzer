@@ -3,17 +3,17 @@
     <% events.each do |event| %>
         <div class="event">
           <div class="event-content">
-            <div class="name"><%= event[:name] %></div>
+            <div class="name"><%= event['name'] %></div>
 
             <div class="type">
-              <%= event[:type] %>
+              <%= event['type'] %>
 
-              <% if event.key?(:date) && !event[:date].nil? %>
-                <span class="date">(<%= event[:date] %>)</span>
+              <% if event.key?('date') && (!event['date'].nil? && event['date'] != '') %>
+                <span class="date">(<%= event['date'] %>)</span>
               <% end %>
             </div>
 
-            <div class="location"><%= event[:location] %></div>
+            <div class="location"><%= event['location'] %></div>
           </div>
         </div>
     <% end %>
@@ -22,13 +22,12 @@
   <div id="map-controls" class="controls fa">&#xf128</div>
   <div class="controls-modal">
     <p>
-      Each pin represents one or more events from the left.
+      Each pin represents one or more events from the column to the left.
     </p>
     <p>
-      You can click on the events to the left to navigate to the corresponding pin on the
+      You can click on an event to navigate to the corresponding pin on the
       map, or click on a pin to view more information about the events there.
     </p>
-
   </div>
 </div>
 <script type="application/javascript">
@@ -48,23 +47,23 @@
     let markers = {};
     let marker;
     <% locations.each do |name, location| %>
-        marker = L.marker([<%= "#{location[:lat]}, #{location[:long]}" %>]).addTo(map);
+        marker = L.marker([<%= "#{location['lat']}, #{location['long']}" %>]).addTo(map);
 
         <%
          inner_html = "<div class='events'>"
          inner_html += location_event_map[name].map do |i|
              event = events[i]
-             date  = event[:date].nil? ? nil : ", #{event[:date]}"
+             date  = event[:date].nil? ? nil : ", #{event['date']}"
 
-             if event[:link].nil?
-                title = event[:name]
+             if event['link'].nil?
+                title = event['name']
              else
-                title = "<a href='#{event[:link]}'>#{event[:name]}</a>"
+                title = "<a href='#{event['link']}' target='_blank'>#{event['name']}</a>"
              end
 
              "<div class='event'>" +
              "#{title} " +
-             "<span class='type'>(#{event[:type]}#{date})</span>" +
+             "<span class='type'>(#{event['type']}#{date})</span>" +
              "</div>"
          end.join('')
          inner_html += '</div>'

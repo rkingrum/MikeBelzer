@@ -10,7 +10,7 @@ $(document).on('ready turbolinks:load', function() {
     let folders = $('.folder');
 
     folders.find('> .title').on('click', function(e) {
-        let folder = $(e.target).parent('.folder');
+        let folder = $(e.target).closest('.folder');
 
         folder.toggleClass('expanded');
     });

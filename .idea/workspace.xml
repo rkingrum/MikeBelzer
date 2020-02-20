@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/carousal/dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/data/event_locations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/data/events.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/carousal/JackSnowflake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/carousal/JackSnowflake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/carousal/nightmare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/carousal/robinsonsCarl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/carousal/theLab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/carousal/theLab.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/data/albums.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/data/albums.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/demo_reels.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/demo_reels.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/events.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +318,7 @@
       <workItem from="1580872765037" duration="55000" />
       <workItem from="1580953937055" duration="2071000" />
       <workItem from="1581037920465" duration="6000" />
-      <workItem from="1582069138479" duration="3876000" />
+      <workItem from="1582069138479" duration="7199000" />
     </task>
     <servers />
   </component>
@@ -352,6 +366,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="669" y="338" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1579228437013" />
+    <state x="-963" y="256" key="run.anything.popup" timestamp="1582073711370">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-963" y="256" key="run.anything.popup/-1920.23.1920.1057/0.23.1920.1177@-1920.23.1920.1057" timestamp="1582073711370" />
     <state x="-815" y="261" width="670" height="608" key="search.everywhere.popup" timestamp="1582070664712">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>

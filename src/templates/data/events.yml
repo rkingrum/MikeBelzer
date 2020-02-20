@@ -1,0 +1,180 @@
+---
+-
+  name: 'ACM Siggraph'
+  date: "2000"
+  location: "New Orleans, Louisiana"
+  type: "Lecture"
+-
+  name: 'ASIFA-Hollywood (Woodbury University)'
+  date: "2008"
+  location: "Burbank, California"
+  type: "Book Signing, Panel"
+  link: "http://jimhillmedia.com/columnists1/b/shelly_valladolid/archive/2008/10/23/asifa-hollywood-animation-archive-fundraiser-shines-spotlight-on-how-modern-animated-features-are-made.aspx"
+-
+  name: 'Academy of Interactive Entertainment (AIE)'
+  date: "2018"
+  location: "Seattle, Washington"
+  type: "Lecture"
+-
+  name: 'Anima Mundi'
+  date: "1999"
+  location: "Rio de Janeiro, Brazil"
+  type: "Lecture, Workshop"
+-
+  name: 'Anima Mundi'
+  date: "1999"
+  location: "São Paulo, Brazil"
+  type: "Lecture, Workshop"
+-
+  name: 'Animation Festival'
+  date: "2007"
+  location: "Madison, Wisconsin"
+  type: "Lecture"
+-
+  name: 'Animation Mentor'
+  date: "2018"
+  location: "San Francisco, California"
+  type: "Lecture"
+-
+  name: 'Animation Mentor'
+  date: "2019"
+  location: "San Francisco, California"
+  type: "Lecture"
+-
+  name: 'Anomalia'
+  date: "2014"
+  location: "Litomysl, Czech Republic"
+  type: "Lecture, Workshop"
+-
+  name: 'Bellevue Community College'
+  date: "2018"
+  location: "Bellevue, Washington"
+  type: "Lecture"
+-
+  name: 'CREANIMAX Festival'
+  date: "2007"
+  location: "Guadalajara, Mexico"
+  type: "Lecture"
+-
+  name: 'Cal Poly'
+  date: "2002"
+  location: "San Luis Obispo, California"
+  type: "Lecture"
+-
+  name: 'Cal State University of Fullerton'
+  date: "2001"
+  location: "Fullerton, California"
+  type: "Lecture"
+-
+  name: 'California Institute of the Arts'
+  date: "2005"
+  location: "Valencia, California"
+  type: "Lecture"
+-
+  name: 'ComicCon'
+  date: "2018"
+  location: "Gibraltar"
+  type: "Lecture"
+-
+  name: 'Disney Studios'
+  date: "2008"
+  location: "Orlando, Florida"
+  type: "Lecture"
+-
+  name: 'Disney Studios'
+  date: "2006"
+  location: "Burbank, California"
+  type: "Lecture"
+-
+  name: 'eDIT'
+  date: "2002"
+  location: "Frankfurt, Germany"
+  type: "Lecture"
+-
+  name: 'El Capitan Theater'
+  date: "2007"
+  location: "Hollywood, California"
+  type: "Panel"
+  link: "https://www.youtube.com/watch?v=M4g3A-zkgx4&feature=youtu.be&t=1"
+-
+  name: 'El Capitan Theater'
+  date: "2018"
+  location: "Hollywood, California"
+  type: "Panel"
+  link: "https://www.youtube.com/watch?v=oG0IsVQtOIM"
+-
+  name: 'Freddy Beras'
+  date: "2010"
+  location: "Santo Domingo, Dominican Republic"
+  type: "Workshop"
+-
+  name: 'Kalamazoo International Animation Festival'
+  date: "2005"
+  location: "Kalamazoo, Michigan"
+  type: "Lecture"
+-
+  name: 'Laguna College of Art and Design'
+  date: "1995"
+  location: "Laguna Beach, California"
+  type: "Lecture"
+-
+  name: 'Massachusetts Museum of Contemporary Art'
+  date: "2000"
+  location: "North Adams, Massachusetts"
+  type: "Lecture, Stop Motion Animation performance"
+  link: "https://www.youtube.com/watch?v=0Vv20WN0dnU"
+-
+  name: 'Ottawa International Animation Festival'
+  date: "2014"
+  location: "Ottawa, Canada"
+  type: "Lecture"
+-
+  name: 'Promise Keepers'
+  date: "2000"
+  location: "San Diego, California"
+  type: "Lecture"
+-
+  name: 'RGB Studio'
+  date: "2001"
+  location: "Copenhagen, Denmark"
+  type: "Lecture"
+-
+  name: 'Rhythm and Hues Studio'
+  date: "2008"
+  location: "Los Angeles, California"
+  type: "Lecture"
+-
+  name: 'The Animation Workshop'
+  date: "1999"
+  location: "Viborg, Denmark"
+  type: "Workshop"
+-
+  name: 'The Art Institute of California'
+  date: ""
+  location: "San Francisco, California"
+  type: "Lecture"
+-
+  name: 'VES'
+  date: "2000"
+  location: "Los Angeles, California"
+  type: "Lecture"
+-
+  name: 'VES Society'
+  date: ""
+  location: "London, England"
+  type: "Lecture"
+-
+  name: 'Valve Software'
+  date: "2018"
+  location: "Bellevue, Washington"
+  type: "Lecture"
+-
+  name: 'ViewFinders Atlantic Film Festival'
+  date: "2006"
+  location: "Halifax, Nova Scotia"
+  type: "Lecture"
+-
+  name: 'Visual Effects Society'
+  date: "2018"
+  location: "Seattle, Washington"
+  type: "Lecture"
