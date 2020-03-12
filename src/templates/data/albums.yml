@@ -142,8 +142,9 @@
     - albums/James_and_the_Giant_Peach_watermarked/PeachGulls2_w2.jpg
     - albums/James_and_the_Giant_Peach_watermarked/PeachGulls_w2.jpg
 -
-  name: 'Gumby Movie'
+  name: 'Gumby'
   images:
+    - albums/Gumby_watermarked/GumbyFamily_w.jpg
     - albums/Gumby_watermarked/GumbyAngie2_w.jpg
     - albums/Gumby_watermarked/GumbyAngie_w.jpg
     - albums/Gumby_watermarked/GumbyAnthony1_w.jpg
@@ -165,7 +166,6 @@
     - albums/Gumby_watermarked/GumbyEric2_w.jpg
     - albums/Gumby_watermarked/GumbyEric2a_w.jpg
     - albums/Gumby_watermarked/GumbyEric_w.jpg
-    - albums/Gumby_watermarked/GumbyFamily_w.jpg
     - albums/Gumby_watermarked/GumbyHillaryMe_w.jpg
     - albums/Gumby_watermarked/GumbyHittle2_w.jpg
     - albums/Gumby_watermarked/GumbyHittle3_w.jpg
@@ -195,6 +195,7 @@
 -
   name: 'Commercials'
   images:
+    - albums/commercials/FunfetDBoy_w.jpg
     - albums/commercials/Belzer_DB_w.jpg
     - albums/commercials/DB_armature_w.jpg
     - albums/commercials/DoughBoyBoard2_w.jpg
@@ -204,7 +205,6 @@
     - albums/commercials/DoughBoyPoke_w.jpg
     - albums/commercials/DoughBoySet_w.jpg
     - albums/commercials/DoughBoyYell_w.jpg
-    - albums/commercials/FunfetDBoy_w.jpg
     - albums/commercials/OrsonRat_w.jpg
 -
   name: 'Movie Posters'
@@ -218,16 +218,13 @@
     - albums/Movie Posters/bolt.jpg
     - albums/Movie Posters/pixar.jpg
 -
-  name: 'Elizabeth King'
+  name: 'Experimental Animation'
   images:
     - albums/Elizabeth_King_watermarked/Elizabeth01a_w2.jpg
     - albums/Elizabeth_King_watermarked/Elizabeth2a_w2.jpg
     - albums/Elizabeth_King_watermarked/Elizabeth03a_w2.jpg
     - albums/Elizabeth_King_watermarked/Elizabeth04a_w2.jpg
     - albums/Elizabeth_King_watermarked/Elizabeth05_w2.jpg
--
-  name: 'What Happened'
-  images:
     - albums/what_happened/WH-film-still-1.jpeg
     - albums/what_happened/WH-film-still-2.jpeg
     - albums/what_happened/WH-film-still-3.jpeg

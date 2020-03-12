@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f862f4-b5ce-4685-b475-7f56df632939" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/carousal/dinosaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/data/event_locations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/data/events.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/html_generator.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/carousal/JackSnowflake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/carousal/JackSnowflake.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/carousal/nightmare.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/carousal/robinsonsCarl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/carousal/theLab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/carousal/theLab.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MikeBelzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MikeBelzer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/albums/past_events/Harryhausen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/albums/past_events/Harryhausen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/carousal/dinosaur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/carousal/dinosaur.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/data/albums.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/data/albums.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/demo_reels.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/demo_reels.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/events.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/events.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/media.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/media.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +309,10 @@
       <workItem from="1580872765037" duration="55000" />
       <workItem from="1580953937055" duration="2071000" />
       <workItem from="1581037920465" duration="6000" />
-      <workItem from="1582069138479" duration="7199000" />
+      <workItem from="1582069138479" duration="7422000" />
+      <workItem from="1582424369138" duration="944000" />
+      <workItem from="1582669931567" duration="14000" />
+      <workItem from="1583973488792" duration="473000" />
     </task>
     <servers />
   </component>
@@ -352,10 +346,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="896" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1579224003488" />
-    <state x="-1067" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1581037924117">
+    <state x="-1067" y="455" key="com.intellij.ide.util.TipDialog" timestamp="1582669937097">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="-1067" y="455" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1177@-1920.23.1920.1057" timestamp="1581037924117" />
+    <state x="-1067" y="455" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1177@-1920.23.1920.1057" timestamp="1582669937097" />
     <state x="853" y="504" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1580872785560" />
     <state x="853" y="504" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1580862531053" />
     <state x="1073" y="357" width="772" height="508" key="find.popup" timestamp="1580339320308">
